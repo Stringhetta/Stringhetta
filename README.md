@@ -1,5 +1,5 @@
  ### Hi, I’m Matheus Stringhetta
--  i'm a student of Information Systems at the Federal University of Uberlandia
+-  i'm a student of Information Systems at the Federal University of Uberlândia
 -  I’m interested in make the difference in the IT area, developing solutions and going ahead of my time
 
 
