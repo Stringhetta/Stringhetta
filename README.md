@@ -5,7 +5,7 @@
 
 🔎 [Facebook](https://www.facebook.com/matheus.stringhetta/) <br>
 📸 [Instagram](https://www.instagram.com/sr.stringhetta/) <br>
-💼 [LinkedIn](linkedin.com/in/matheus-stringhetta-a247a1207) <br>
+💼 [Linkedin](www.linkedin.com/in/matheus-stringhetta) <br>
 <!---
 Stringhetta/Stringhetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
