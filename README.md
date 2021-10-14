@@ -1,7 +1,7 @@
  ### Hi, I’m Matheus Stringhetta
 I'm a student of Information Systems at the Federal University of Uberlândia.
-I currently work with software Q.A. and Java development.
-My focus is to become an expert in Java, using various types of technologies such as Spring, REST, SQL, continuous integration (Docker/Kubernetes) and many others, making the difference in the IT area, developing solutions and going ahead of my time
+Currently I work as a software systems development analyst.
+My focus is to become an expert in Java, using various types of technologies such as Spring, REST, SQL, OracleDB, continuous integration (Docker/Kubernetes) and many others,  making the difference in the IT area, developing solutions and going ahead of my time.
 
 
 
