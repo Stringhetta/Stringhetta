@@ -1,6 +1,6 @@
  ### Hi, I’m Matheus Stringhetta
 I'm a student of Information Systems at the Federal University of Uberlândia.
-Currently I work as a software systems development analyst.
+Currently I work as a software developer.
 
 
 ### Find me elsewhere
